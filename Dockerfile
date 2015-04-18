@@ -49,7 +49,7 @@ RUN buildDeps=' \
 	&& ./configure --disable-install-doc \
 	&& make -j"$(nproc)" \
 	&& make install \
-	&& rm -r /usr/src/ruby
+	&& rm -r /usr/src/ruby \
 	&& apt-get purge -y --auto-remove $buildDeps
 
 # skip installing gem documentation
