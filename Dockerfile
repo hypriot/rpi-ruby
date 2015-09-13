@@ -66,3 +66,4 @@ RUN gem install bundler \
 ENV BUNDLE_APP_CONFIG $GEM_HOME
 
 CMD [ "irb" ]
+
