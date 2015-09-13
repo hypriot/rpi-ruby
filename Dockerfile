@@ -1,6 +1,6 @@
 # Pull base image
 FROM resin/rpi-raspbian:wheezy
-MAINTAINER Govinda fichtner <govinda@hypriot.com>
+MAINTAINER Govinda Fichtner <govinda@hypriot.com>
 
 RUN apt-get update \
 	&& apt-get install -y --no-install-recommends \
