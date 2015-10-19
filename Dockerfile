@@ -1,5 +1,5 @@
 # Pull base image
-FROM resin/rpi-raspbian:wheezy
+FROM resin/rpi-raspbian:jessie
 MAINTAINER Govinda fichtner <govinda@hypriot.com>
 
 RUN apt-get update \
