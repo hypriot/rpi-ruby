@@ -1,6 +1,6 @@
 # rpi-ruby
 
-RPi-compatible Docker image with Ruby [Ruby](https://www.ruby-lang.org).  
+RPi-compatible Docker image with Ruby [Ruby](https://www.ruby-lang.org)
 
 ## What is Ruby?
 
