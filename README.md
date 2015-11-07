@@ -1,5 +1,3 @@
-[![dockeri.co](http://dockeri.co/image/hypriot/rpi-ruby)](https://registry.hub.docker.com/u/hypriot/rpi-ruby/)
-
 Raspberry Pi compatible Docker base image with [Ruby](https://www.ruby-lang.org).  
 
 ## What is Ruby?
